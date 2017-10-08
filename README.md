@@ -1,5 +1,8 @@
 # StudyElixir
-Playing with Elixir, Introducing Elixir*, O'Reilly Media, Inc., 2014.
+
+Just Playing with Elixir
+
+[Introducing Elixir*, O'Reilly Media, Inc., 2014.](https://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995/ref=sr_1_1?ie=UTF8&qid=1507440696&sr=8-1&keywords=introducing+elixir)
 
 # How to setup? #
 
